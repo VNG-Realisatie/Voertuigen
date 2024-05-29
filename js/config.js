@@ -3,10 +3,10 @@ let respecConfig = {
 //  useLabel: true,
 //  license: "eupl",
   shortName: "Respec-template",
-  pubDomain: "hl",
+  pubDomain: "sim",
 
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
-  specType: "HL",
+  specType: "IM",
   
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
   specStatus: "IO",
@@ -18,9 +18,9 @@ let respecConfig = {
   //previousPublishDate: "2022-06-24",
   //previousPublishVersion: "0.0.4",
   
-  title: "Respec documentatie generatie",
-  subtitle: "Tevens een voorbeeld van een gegenereerd Respec document",
-  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
+  title: "SIM Voertuigen",
+//  subtitle: "Tevens een voorbeeld van een gegenereerd Respec document",
+//  content: {"mermaid": "", "ch01": "informative", "ch02": ""},
 //  authors:
 //    [
 //      {
